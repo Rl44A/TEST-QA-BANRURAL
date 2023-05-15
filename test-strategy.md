@@ -49,6 +49,6 @@ Resumen de errores corregidos.
 6. linea 87 El mensaje debería ser '!!!Pérdistes!!!' pero estaba 'Felicitaciones! adivinaste el número!', se realizo el cambio. 
 7. linea 83 El color del background era negro, se cambio a verde. 
 8. Se elino la linea en donde estaba escrito Incorrecto! ya que usaba el mismo espacio que los 2 mensajes anteriores, se agrego en la linea 92 y 94 
-9. Linea 80 se agrego parseInt para que fuera posible realizar la comparación
+9. Linea 80 se agrego parseInt para que fuera posible realizar la comparación.
 10. Linea 50 se cambiaron los ATTEMPS a 10. 
 
